@@ -1,0 +1,17 @@
+import React from "react";
+
+export const HomeIcon = () => {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <path d="M12 2L2 12h3v8h6v-6h2v6h6v-8h3L12 2z" />
+    </svg>
+  );
+};
+
+export const SettingsIcon = () => {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+      <path d="M12 2L2 12h3v8h6v-6h2v6h6v-8h3L12 2z" />
+    </svg>
+  );
+};

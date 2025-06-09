@@ -7,7 +7,14 @@ module.exports = {
     "./src/main/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        
+        primary: "#2A8C82",
+        secondary: "#41BFB3",
+        textPrimary: "#000000",
+      },
+    },
   },
-  plugins: [],
+  plugins: [require("daisyui")],
 }

@@ -46,9 +46,13 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.7",
+    "@tanstack/query-db-collection": "^1.0.28",
+    "@tanstack/react-db": "^0.1.75",
+    "daisyui": "^5.5.19",
     "electron-squirrel-startup": "^1.0.1",
     "primeicons": "^7.0.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.13.0"
   }
 }

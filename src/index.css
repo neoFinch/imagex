@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.active {
+  @apply bg-black bg-opacity-30 text-white rounded-full;
+}
